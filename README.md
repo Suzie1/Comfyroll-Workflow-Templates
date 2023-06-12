@@ -1,4 +1,4 @@
-# Comfyroll-Workflow-Templates
+# Comfyroll Workflow Templates
 A collection of workflow templates for use with Comfy UI
 
 This workflow template is intended as a multi-purpose template for use on a wide variety of projects. It can be used with any checkpoint model.
