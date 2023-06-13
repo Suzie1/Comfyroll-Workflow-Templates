@@ -67,7 +67,7 @@ Varies by template:
 * image upscaling
 * post-processing styles and enhancements
 
-![Pro Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Pro_Template.jpg)
+![Pro Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Pro_Template.JPG)
 
 # Tips
 * each optional component can be bypassed using logic switches (red nodes)
