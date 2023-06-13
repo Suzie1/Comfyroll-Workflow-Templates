@@ -32,7 +32,7 @@ Varies by template:
 * Hires Fix and latent upscaling
 * image upscaling
 
-![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/1_Comfyroll_Simple_Template_Variable_Prompt_v05.jpg)
+![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Simple_Template.jpg)
 
 # Intermediate Template Features
 * Txt2Img, Img2Img
@@ -42,6 +42,8 @@ Varies by template:
 * Hires Fix and latent upscaling
 * image upscaling
 
+![Intermediate Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Intermediate_Template.jpg)
+
 # Advanced Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * up to 3 LoRAs (these can be toggled On/Off)
@@ -49,6 +51,8 @@ Varies by template:
 * image borders
 * image upscaling
 * up to 2 ControlNets or a ControlNet batch
+
+![Advanced Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Advanced_Template.jpg)
 
 # Pro Template Features
 * Txt2Img, Img2Img or Img2Img batch
