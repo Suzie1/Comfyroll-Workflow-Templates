@@ -1,5 +1,5 @@
 ## Comfyroll Workflow Templates
-A collection of workflow templates for use with Comfy UI
+__A collection of workflow templates for use with Comfy UI__
 
 These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
 They can be used with any checkpoint model.
@@ -31,6 +31,8 @@ Varies by template:
 * Txt2Img, Img2Img
 * Hires Fix and latent upscaling
 * image upscaling
+
+![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/1_Comfyroll_Simple_Template_Variable_Prompt_v05.jpg)
 
 # Intermediate Template Features
 * Txt2Img, Img2Img
