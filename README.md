@@ -8,13 +8,12 @@ They can be used with any checkpoint model.
 * download the workflows using one of the following
   *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
   *  from CivitAI
-  *  using ComfyUI-Manager
+  *  using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 * install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 * install __Detail Tweaker LoRA__ from https://civitai.com/models/58390 (optional)
 
-It is recommended to install and update custom nodes using ComfyUI Manager
-https://github.com/ltdrdata/ComfyUI-Manager
+It is recommended to install and update custom nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
 ### On First Use 
 Varies by template:
