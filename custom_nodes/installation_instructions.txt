@@ -1,0 +1,28 @@
+If you have a previous version of the Comfyroll nodes from the Comfyroll Worflow Templates download, please delete this before installing these nodes.
+
+There are three ways to install the Comfyroll Custom Nodes
+
+Option 1. Install from CivitAI
+
+Download from
+https://civitai.com/models/87609/comfyroll-custom-nodes-for-comfyui
+
+Place the zip file in \ComfyUI\custom_nodes\ and unzip
+
+Move the zip file to an archive folder
+
+Restart ComfyUI
+
+Option 2. Install from Git
+
+cd custom_nodes
+
+git clone https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes.git
+
+Restart ComfyUI
+
+Option 3. Install using ComfyUI Manager
+
+https://github.com/ltdrdata/ComfyUI-Manager
+
+Restart ComfyUI
