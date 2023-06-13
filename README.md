@@ -1,20 +1,21 @@
 # Comfyroll Workflow Templates
 A collection of workflow templates for use with Comfy UI
 
-This workflow template is intended as a multi-purpose template for use on a wide variety of projects. It can be used with any checkpoint model.
+These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
+They can be used with any checkpoint model.
 
-Prerequisites
+__Prerequisites__
 * ComfyUI installation
+* Comfyroll Custom Nodes
 * WAS Node Suite custom nodes, v2.0 or higher
-* at least 10GB VRAM is recommended
 
-Installation
+__Installation__
 * save the workflow on the same drive as your ComfyUI installation
-* save the Custom Nodes from the download in your \ComfyUI\custom_nodes folder
 * install WAS Node Suite from https://civitai.com/models/20793/was-node-suite-comfyui
+* install Comfyroll Custom Nodes from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 * install Detail Tweaker LoRA from https://civitai.com/models/58390 (optional)
 
-On first use
+On first use (varies by template)
 * select models and VAE
 * select a default LoRA in each Load LoRA node
 * select upscale models
@@ -24,7 +25,28 @@ On first use
 * do a test run
 * save a copy to use as your template
 
-Template Features
+__Simple Template Features__
+* Txt2Img, Img2Img
+* Hires Fix and latent upscaling
+* image upscaling
+
+__Intermediate Template Features__
+* Txt2Img, Img2Img
+* ControlNet diff models
+* image borders
+* ControlNet for adding noise
+* Hires Fix and latent upscaling
+* image upscaling
+
+__Advanced Template Features__
+* Txt2Img, Img2Img or Img2Img batch
+* up to 3 LoRAs (these can be toggled On/Off)
+* ControlNet diff models
+* image borders
+* image upscaling
+* up to 2 ControlNets or a ControlNet batch
+
+__Pro Template Features__
 * Txt2Img, Img2Img or Img2Img batch
 * dual models
 * dual prompts
@@ -37,14 +59,18 @@ Template Features
 * image upscaling
 * post-processing styles and enhancements
 
-Tips
+__Tips__
 * each optional component can be bypassed using logic switches (red nodes)
 * set the Load Image Batch to single-image when it is not being used
 * the default setting on all switches is Off (1)
 * Preview Image nodes can be set to preview or save image using the output_type
 * use ComfyUI Manager to download ControlNet and upscale models
 * if you are new to ComfyUI it is recommended to start with the simple and intermediate templates in Comfyroll Template Workflows
+* at least 10GB VRAM is recommended for the Pro Template
 
 Resources
 https://upscale.wiki/wiki/Model_Database
+https://civitai.com/models/87609/comfyroll-custom-nodes-for-comfyui
 https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
+https://github.com/ltdrdata/ComfyUI-Manager
+
