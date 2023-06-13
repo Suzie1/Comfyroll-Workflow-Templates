@@ -12,6 +12,8 @@ They can be used with any checkpoint model.
 * install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 * install __Detail Tweaker LoRA__ from https://civitai.com/models/58390 (optional)
+* install __4x-UltraSharp__ from  https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g (optional)
+* install __ControlNet diff models__ from  https://huggingface.co/kohya-ss/ControlNet-diff-modules/tree/main (optional)
 
 It is recommended to install and update custom nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
