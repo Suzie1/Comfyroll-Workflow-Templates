@@ -27,6 +27,12 @@ Varies by template:
 * do a test run
 * save a copy to use as your template
 
+# List of Templates
+* Simple Template
+* Intermediate Template
+* Advanced Template
+* Pro Template
+
 # Simple Template Features
 * Txt2Img, Img2Img
 * Hires Fix and latent upscaling
