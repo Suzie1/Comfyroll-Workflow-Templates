@@ -12,11 +12,11 @@ They can be used with any checkpoint model.
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 
 Optional resources:
-* __Detail Tweaker LoRA__ from https://civitai.com/models/58390
-* __4x-UltraSharp__ from  https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g
-* __RealESRGAN_x2plus__ from https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth
-* __ControlNet models__ from https://civitai.com/models/9251/controlnet-pre-trained-models
-* __ControlNet diff models__ from https://civitai.com/models/9868/controlnet-pre-trained-difference-models
+* __Detail Tweaker LoRA__ https://civitai.com/models/58390
+* __4x-UltraSharp__  https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g
+* __RealESRGAN_x2plus__ https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth
+* __ControlNet models__ https://civitai.com/models/9251/controlnet-pre-trained-models
+* __ControlNet diff models__ https://civitai.com/models/9868/controlnet-pre-trained-difference-models
 
 It is recommended to install and update custom nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
