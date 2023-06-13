@@ -32,7 +32,7 @@ Varies by template:
 * Hires Fix and latent upscaling
 * image upscaling
 
-#Intermediate Template Features
+# Intermediate Template Features
 * Txt2Img, Img2Img
 * ControlNet diff models
 * image borders
