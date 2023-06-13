@@ -4,12 +4,7 @@ A collection of workflow templates for use with Comfy UI
 These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
 They can be used with any checkpoint model.
 
-#Prerequisites
-* ComfyUI installation
-* Comfyroll Custom Nodes
-* WAS Node Suite custom nodes, v2.0 or higher
-
-#Installation
+# Installation
 * download the workflows using one of the following
   *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
   *  from CivitAI
@@ -21,7 +16,7 @@ They can be used with any checkpoint model.
 It is recommended to install and update custom nodes using ComfyUI Manager
 https://github.com/ltdrdata/ComfyUI-Manager
 
-#On first use (varies by template)
+# On first use (varies by template)
 * select models and VAE
 * select a default LoRA in each Load LoRA node
 * select upscale models
@@ -31,7 +26,7 @@ https://github.com/ltdrdata/ComfyUI-Manager
 * do a test run
 * save a copy to use as your template
 
-#Simple Template Features
+# Simple Template Features
 * Txt2Img, Img2Img
 * Hires Fix and latent upscaling
 * image upscaling
@@ -44,7 +39,7 @@ https://github.com/ltdrdata/ComfyUI-Manager
 * Hires Fix and latent upscaling
 * image upscaling
 
-#Advanced Template Features
+# Advanced Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * up to 3 LoRAs (these can be toggled On/Off)
 * ControlNet diff models
@@ -52,7 +47,7 @@ https://github.com/ltdrdata/ComfyUI-Manager
 * image upscaling
 * up to 2 ControlNets or a ControlNet batch
 
-#Pro Template Features
+# Pro Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * dual models
 * dual prompts
@@ -65,7 +60,7 @@ https://github.com/ltdrdata/ComfyUI-Manager
 * image upscaling
 * post-processing styles and enhancements
 
-#Tips
+# Tips
 * each optional component can be bypassed using logic switches (red nodes)
 * set the Load Image Batch to single-image when it is not being used
 * the default setting on all switches is Off (1)
@@ -75,6 +70,7 @@ https://github.com/ltdrdata/ComfyUI-Manager
 * at least 10GB VRAM is recommended for the Pro Template
 
 #Resources
+
 https://upscale.wiki/wiki/Model_Database
 
 https://civitai.com/models/87609/comfyroll-custom-nodes-for-comfyui
