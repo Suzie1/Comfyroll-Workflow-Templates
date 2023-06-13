@@ -7,14 +7,15 @@ They can be used with any checkpoint model.
 ### Installation
 * download the workflows using one of the following
   *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
-  *  from CivitAI
-  *  using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
+  *  from CivitAI 
 * install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
-* install __Detail Tweaker LoRA__ from https://civitai.com/models/58390 (optional)
-* install __4x-UltraSharp__ from  https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g (optional)
-* install __ControlNet models__ from https://civitai.com/models/9251/controlnet-pre-trained-models (optional)
-* install __ControlNet diff models__ from https://civitai.com/models/9868/controlnet-pre-trained-difference-models (optional)
+
+Optional resources:
+* install __Detail Tweaker LoRA__ from https://civitai.com/models/58390
+* install __4x-UltraSharp__ from  https://mega.nz/folder/qZRBmaIY#nIG8KyWFcGNTuMX_XNbJ_g
+* install __ControlNet models__ from https://civitai.com/models/9251/controlnet-pre-trained-models
+* install __ControlNet diff models__ from https://civitai.com/models/9868/controlnet-pre-trained-difference-models
 
 It is recommended to install and update custom nodes using [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
