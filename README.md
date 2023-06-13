@@ -15,6 +15,9 @@ __Installation__
 * install Comfyroll Custom Nodes from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 * install Detail Tweaker LoRA from https://civitai.com/models/58390 (optional)
 
+It is recommended to install and update custom nodes using ComfyUI Manager
+https://github.com/ltdrdata/ComfyUI-Manager
+
 On first use (varies by template)
 * select models and VAE
 * select a default LoRA in each Load LoRA node
