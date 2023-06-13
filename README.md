@@ -5,9 +5,10 @@ These workflow templates are intended as multi-purpose templates for use on a wi
 They can be used with any checkpoint model.
 
 ### Installation
-* download the workflows using one of the following
+* download the workflows
+  *  cd to ComfyUI\custom_nodes
   *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
-  *  from CivitAI 
+* or download from CivitAI 
 * install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 
