@@ -67,6 +67,8 @@ Varies by template:
 * image upscaling
 * post-processing styles and enhancements
 
+![Pro Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Pro_Template.jpg)
+
 # Tips
 * each optional component can be bypassed using logic switches (red nodes)
 * set the Load Image Batch to single-image when it is not being used
