@@ -16,13 +16,14 @@ They can be used with any checkpoint model.
 It is recommended to install and update custom nodes using ComfyUI Manager
 https://github.com/ltdrdata/ComfyUI-Manager
 
-# On first use (varies by template)
+# On First Use 
+Varies by template:
 * select models and VAE
-* select a default LoRA in each Load LoRA node
-* select upscale models
-* select ControlNet models
 * add a default image in each of the Load Image nodes (purple nodes)
 * add a default image batch in the Load Image Batch node
+* select upscale models
+* select ControlNet models
+* select a default LoRA in each Load LoRA node
 * do a test run
 * save a copy to use as your template
 
