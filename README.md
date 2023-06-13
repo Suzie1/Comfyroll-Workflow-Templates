@@ -1,24 +1,27 @@
-# Comfyroll Workflow Templates
+## Comfyroll Workflow Templates
 A collection of workflow templates for use with Comfy UI
 
 These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
 They can be used with any checkpoint model.
 
-__Prerequisites__
+#Prerequisites
 * ComfyUI installation
 * Comfyroll Custom Nodes
 * WAS Node Suite custom nodes, v2.0 or higher
 
-__Installation__
-* save the workflow on the same drive as your ComfyUI installation
-* install WAS Node Suite from https://civitai.com/models/20793/was-node-suite-comfyui
-* install Comfyroll Custom Nodes from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
-* install Detail Tweaker LoRA from https://civitai.com/models/58390 (optional)
+#Installation
+* download the workflows using one of the following
+  *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
+  *  from CivitAI
+  *  using ComfyUI-Manager
+* install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
+* install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
+* install __Detail Tweaker LoRA__ from https://civitai.com/models/58390 (optional)
 
 It is recommended to install and update custom nodes using ComfyUI Manager
 https://github.com/ltdrdata/ComfyUI-Manager
 
-On first use (varies by template)
+#On first use (varies by template)
 * select models and VAE
 * select a default LoRA in each Load LoRA node
 * select upscale models
@@ -28,12 +31,12 @@ On first use (varies by template)
 * do a test run
 * save a copy to use as your template
 
-__Simple Template Features__
+#Simple Template Features
 * Txt2Img, Img2Img
 * Hires Fix and latent upscaling
 * image upscaling
 
-__Intermediate Template Features__
+#Intermediate Template Features
 * Txt2Img, Img2Img
 * ControlNet diff models
 * image borders
@@ -41,7 +44,7 @@ __Intermediate Template Features__
 * Hires Fix and latent upscaling
 * image upscaling
 
-__Advanced Template Features__
+#Advanced Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * up to 3 LoRAs (these can be toggled On/Off)
 * ControlNet diff models
@@ -49,7 +52,7 @@ __Advanced Template Features__
 * image upscaling
 * up to 2 ControlNets or a ControlNet batch
 
-__Pro Template Features__
+#Pro Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * dual models
 * dual prompts
@@ -62,7 +65,7 @@ __Pro Template Features__
 * image upscaling
 * post-processing styles and enhancements
 
-__Tips__
+#Tips
 * each optional component can be bypassed using logic switches (red nodes)
 * set the Load Image Batch to single-image when it is not being used
 * the default setting on all switches is Off (1)
@@ -71,9 +74,12 @@ __Tips__
 * if you are new to ComfyUI it is recommended to start with the simple and intermediate templates in Comfyroll Template Workflows
 * at least 10GB VRAM is recommended for the Pro Template
 
-Resources
+#Resources
 https://upscale.wiki/wiki/Model_Database
+
 https://civitai.com/models/87609/comfyroll-custom-nodes-for-comfyui
+
 https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
+
 https://github.com/ltdrdata/ComfyUI-Manager
 
