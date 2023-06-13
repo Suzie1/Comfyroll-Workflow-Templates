@@ -6,7 +6,7 @@ They can be used with any checkpoint model.
 
 ### Installation
 * clone the workflows
-  *  cd to ComfyUI\custom_nodes
+  *  cd to your workflow folder
   *  git clone https://github.com/Suzie1/Comfyroll-Workflow-Templates.git
 * install __WAS Node Suite__ v2.0 or higher from https://civitai.com/models/20793/was-node-suite-comfyui
 * install __Comfyroll Custom Nodes__ from https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
