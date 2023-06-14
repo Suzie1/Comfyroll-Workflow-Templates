@@ -80,7 +80,7 @@ Varies by template:
 
 ![Pro Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Pro_Template.JPG)
 
-### Pro Template Features
+### Modular Template Features
 * Txt2Img, Img2Img or Img2Img batch
 * dual models
 * dual prompts
@@ -94,6 +94,8 @@ Varies by template:
 * Hires Fix and latent upscaling
 * image upscaling
 * post-processing styles and enhancements
+
+![Modular Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Modular_Template.JPG)
 
 ### Tips
 * each optional component can be bypassed using logic switches (red nodes)
