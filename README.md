@@ -36,6 +36,7 @@ Varies by template:
 * Intermediate Template
 * Advanced Template
 * Pro Template
+* Modular Template
 
 ### Simple Template Features
 * Txt2Img, Img2Img
@@ -79,6 +80,21 @@ Varies by template:
 
 ![Pro Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Pro_Template.JPG)
 
+### Pro Template Features
+* Txt2Img, Img2Img or Img2Img batch
+* dual models
+* dual prompts
+* cutoff (CLIP Regions)
+* up to 6 LoRAs (these can be toggled On/Off)
+* up to 3 ControlNets or a ControlNet batch
+* ControlNet diff models
+* ControlNet pre-processors
+* image borders
+* various noise options
+* Hires Fix and latent upscaling
+* image upscaling
+* post-processing styles and enhancements
+
 ### Tips
 * each optional component can be bypassed using logic switches (red nodes)
 * set the Load Image Batch to single-image when it is not being used
@@ -99,4 +115,8 @@ https://github.com/RockOfFire/ComfyUI_Comfyroll_CustomNodes
 https://civitai.com/models/20793/was-node-suite-comfyui
 
 https://github.com/ltdrdata/ComfyUI-Manager
+
+https://civitai.com/models/65627/tinyterranodes-for-comfyui
+
+https://civitai.com/models/28295/cutoff-for-comfyui
 
