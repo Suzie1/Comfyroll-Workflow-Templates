@@ -114,7 +114,7 @@ This template has the same features as the original version but with the followi
 * Preview Image nodes can be set to preview or save image using the output_type
 * use ComfyUI Manager to download ControlNet and upscale models
 * if you are new to ComfyUI it is recommended to start with the simple and intermediate templates in Comfyroll Template Workflows
-* at least 10GB VRAM is recommended for the Pro Template
+* at least 8GB VRAM is recommended for the Pro Template
 
 ### Resources
 
