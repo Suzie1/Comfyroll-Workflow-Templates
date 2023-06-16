@@ -98,7 +98,7 @@ Varies by template:
 
 ![Modular Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Modular_Template.JPG)
 
-### Modular Template v2
+### Modular Template v2 Features
 This template has the same features as the original version but with the following additional features:
 * pipe connectors between modules
 * slots for two ControlNet models
