@@ -36,8 +36,8 @@ Varies by template:
 * Intermediate Template
 * Advanced Template
 * Pro Template
-* Modular Template
-* Modular Template v2
+* Modular Template (WIP version)
+* Modular Template v2 (WIP version)
 
 ### Simple Template Features
 * Txt2Img, Img2Img
