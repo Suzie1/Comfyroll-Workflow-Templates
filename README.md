@@ -37,6 +37,7 @@ Varies by template:
 * Advanced Template
 * Pro Template
 * Modular Template
+* Modular Template v2
 
 ### Simple Template Features
 * Txt2Img, Img2Img
@@ -48,7 +49,7 @@ Varies by template:
 ### Intermediate Template Features
 * Txt2Img, Img2Img
 * ControlNet diff models
-* image borders
+* input image borders
 * ControlNet for adding noise
 * Hires Fix and latent upscaling
 * image upscaling
@@ -59,7 +60,7 @@ Varies by template:
 * Txt2Img, Img2Img or Img2Img batch
 * up to 3 LoRAs (these can be toggled On/Off)
 * ControlNet diff models
-* image borders
+* input image borders
 * image upscaling
 * up to 2 ControlNets or a ControlNet batch
 
@@ -72,7 +73,7 @@ Varies by template:
 * up to 5 LoRAs (these can be toggled On/Off)
 * up to 2 ControlNets or a ControlNet batch
 * ControlNet diff models
-* image borders
+* input image borders
 * various noise options
 * Hires Fix and latent upscaling
 * image upscaling
@@ -89,13 +90,22 @@ Varies by template:
 * up to 3 ControlNets or a ControlNet batch
 * ControlNet diff models
 * ControlNet pre-processors
-* image borders
+* input image borders
 * various noise options
 * Hires Fix and latent upscaling
 * image upscaling
 * post-processing styles and enhancements
 
 ![Modular Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Modular_Template.JPG)
+
+### Modular Template v2
+This template has the same features as the original version but with the following additional features:
+* pipe connectors between modules
+* slots for two ControlNet models
+* input image color tinting
+* output image borders
+
+![Modular Template v2](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Modular_Template_v2.JPG)
 
 ### Tips
 * each optional component can be bypassed using logic switches (red nodes)
