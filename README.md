@@ -46,7 +46,7 @@ Varies by template:
 * post-processing styles
 * output image border
 
-![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Simple_Template_v2.jpg)
+![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Simple_Template_v2.JPG)
 
 ### Intermediate Template v2 Features
 * Txt2Img, Img2Img
@@ -58,7 +58,7 @@ Varies by template:
 * post-processing styles
 * output image border
 
-![Intermediate Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Intermediate_Template_v2.jpg)
+![Intermediate Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Intermediate_Template_v2.JPG)
 
 ### Advanced Template v2 Features
 * Txt2Img, Img2Img or Img2Img batch
@@ -70,7 +70,7 @@ Varies by template:
 * post-processing styles and image adjustments
 * output image border
 
-![Advanced Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Advanced_Template_v2.jpg)
+![Advanced Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Advanced_Template_v2.JPG)
 
 ### Pro Template Features
 * Txt2Img, Img2Img or Img2Img batch
