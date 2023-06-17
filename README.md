@@ -39,30 +39,36 @@ Varies by template:
 * Modular Template (WIP version)
 * Modular Template v2 (WIP version)
 
-### Simple Template Features
+### Simple Template v2 Features
 * Txt2Img, Img2Img
-* Hires Fix and latent upscaling
-* image upscaling
+* latent upscaling
+* image upscaling with model
+* post-processing styles
+* output image border
 
 ![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Simple_Template.jpg)
 
 ### Intermediate Template Features
 * Txt2Img, Img2Img
-* ControlNet diff models
+* 2 LoRAs
+* 1 ControlNet
 * input image borders
-* ControlNet for adding noise
 * Hires Fix and latent upscaling
-* image upscaling
+* image upscaling with model
+* post-processing styles
+* output image border
 
 ![Intermediate Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Intermediate_Template.jpg)
 
 ### Advanced Template Features
 * Txt2Img, Img2Img or Img2Img batch
-* up to 3 LoRAs (these can be toggled On/Off)
-* ControlNet diff models
+* 3 LoRAs
+* 2 ControlNets or ControlNet batch
 * input image borders
-* image upscaling
-* up to 2 ControlNets or a ControlNet batch
+* Hires Fix and latent upscaling
+* image upscaling with model
+* post-processing styles and image adjustments
+* output image border
 
 ![Advanced Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Advanced_Template.jpg)
 
