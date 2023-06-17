@@ -32,9 +32,9 @@ Varies by template:
 * save a copy to use as your template
 
 ### List of Templates
-* Simple Template
-* Intermediate Template
-* Advanced Template
+* Simple Template v2
+* Intermediate Template v2
+* Advanced Template v2
 * Pro Template
 * Modular Template (WIP version)
 * Modular Template v2 (WIP version)
@@ -48,7 +48,7 @@ Varies by template:
 
 ![Simple Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Simple_Template.jpg)
 
-### Intermediate Template Features
+### Intermediate Template v2 Features
 * Txt2Img, Img2Img
 * 2 LoRAs
 * 1 ControlNet
@@ -60,7 +60,7 @@ Varies by template:
 
 ![Intermediate Template](https://github.com/Suzie1/Comfyroll-Workflow-Templates/blob/main/workflow_images/Comfyroll_Intermediate_Template.jpg)
 
-### Advanced Template Features
+### Advanced Template v2 Features
 * Txt2Img, Img2Img or Img2Img batch
 * 3 LoRAs
 * 2 ControlNets or ControlNet batch
