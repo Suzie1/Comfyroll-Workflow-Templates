@@ -1,4 +1,4 @@
-# Comfyroll Workflow Templates
+# Comfyroll SD1.5 Workflow Templates
 __A collection of workflow templates for use with Comfy UI__
 
 These workflow templates are intended as multi-purpose templates for use on a wide variety of projects.
